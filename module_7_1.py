@@ -58,7 +58,7 @@ class Product:
         self.category = category
 
     def __str__(self):
-        return f'{self.name}, {self.wight}, {self.category}'
+        return f'{self.name}, {self.wight}, {self.category.lower().capitalize()}'
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
