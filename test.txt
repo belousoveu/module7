@@ -1,5 +1,5 @@
 Text for tell.
 Используйте кодировку utf-8.
-Because there are 2 languages!
-Спасибо!
+Because there are       2 languages!
+Спасибо! Микки-маус это - простое тире
 И еще одна строка. One more string
